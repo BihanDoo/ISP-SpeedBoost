@@ -5,6 +5,10 @@ so you don't have to touch anything, just sit back and do other work while the B
 
 ----
 
+download the above <a href="blob:https://github.com/f5e1b1d5-039d-4b1b-9638-9ac752a4d427">zip file</a>  
+extract it and run the `boost_v1.x.x.bat`
+
+
 The code (Batch script) is open source and you can change it to your requirements (I have put comments for you to understand what's happenning)  
 However, the speedtest CLI is NOT open source and NOT affiliated in ANY kind with this project. it belongs to the respective owners
 
