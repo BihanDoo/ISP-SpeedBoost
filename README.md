@@ -6,7 +6,7 @@ so you don't have to touch anything, just sit back and do other work while the B
 ----
 
 The code (Batch script) is open source and you can change it to your requirements (I have put comments for you to understand what's happenning)  
-However, the speedtest CLI is NOT open source and NOT affiliated in ANY kind with the respective owners.  
+However, the speedtest CLI is NOT open source and NOT affiliated in ANY kind with this project. it belongs to the respective owners
 
 
 
