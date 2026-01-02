@@ -3,6 +3,7 @@ setlocal EnableExtensions EnableDelayedExpansion
 
 echo ===============================
 echo   Speedtest Runner
+echo view project on GitHub: https://github.com/BihanDoo/ISP-SpeedBoost
 echo ===============================
 echo.
 
@@ -72,6 +73,7 @@ for /L %%S in (!COUNTDOWN!,-1,1) do (
     cls
     echo ===============================
     echo   Speedtest Runner
+    echo view project on GitHub: https://github.com/BihanDoo/ISP-SpeedBoost
     echo ===============================
     echo.
     echo   Running again in %%S seconds
@@ -83,6 +85,7 @@ for /L %%S in (!COUNTDOWN!,-1,1) do (
 cls
 echo ===============================
 echo   Speedtest Runner
+echo view project on GitHub: https://github.com/BihanDoo/ISP-SpeedBoost
 echo ===============================
 echo.
 echo Press CTRL+C to stop.
