@@ -14,3 +14,4 @@ However, the speedtest CLI is NOT open source and NOT affiliated in ANY kind wit
 SpeedTest have a limit. so, BE IN YOUR LIMIT.   
 - choose an interval like `180 seconds` (3 minutes), `300 Seconds` (5 minutes) like so.  
 - 5 minutes is almost enough for the service provider to slam open the bandwidth again :D
+- After the limit reaches, speedtest process exits instantly (which the batch process end up waiting for the countdown to finish and start again)
