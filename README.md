@@ -5,7 +5,7 @@ so you don't have to touch anything, just sit back and do other work while the B
 
 ----
 
-download the above <a href="blob:https://github.com/f5e1b1d5-039d-4b1b-9638-9ac752a4d427">zip file</a>  
+download the above zip file
 extract it and run the `boost_v1.x.x.bat`
 
 
